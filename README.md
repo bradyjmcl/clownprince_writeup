@@ -2,7 +2,7 @@
 
 ---
 
-This is a writeup for the hard-level CTF "Clown Prince" on TryHackMe. This room is located at https://tryhackme.com and is a free challenge room. I am documenting the steps necessary to compromise the machine in this writeup **WITHOUT** including any flags or spoilers (credentials, directories, etc), in the spirit of the game. However, following this process exactly should result in a full compromise of the target system.
+This is a writeup for the hard-level CTF "Clown Prince" on TryHackMe. This room is located at https://tryhackme.com and is a free challenge room. I am documenting the steps necessary to compromise the machine in this writeup **WITHOUT** including any flags or unnecessary spoilers (credentials, directories, etc), in the spirit of the game. However, following this process exactly should result in a full compromise of the target system.
 
 ### My usual walkthroughs are aimed at beginners, but since this is a challenge with an intentionally higher difficulty, I will not be explaining recon or enumeration, only showing the steps required to complete.
 
